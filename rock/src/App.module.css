@@ -1,0 +1,10 @@
+.container {
+  width: 800px;
+}
+
+.titleCtn {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px 0;
+  margin-bottom: 50px;
+}
